@@ -2,91 +2,91 @@
     {
         "game": "1v1.lol",
         "desc": "1v1 LOL is a crazy third-person battle royale shooting game that combines a third-person shooter and a building simulator. You can now play online for free!",
-        "root": "/g/lol",
+        "root": "/g/lol/",
         "index": "index.html",
         "icon": "gameicon.png"
     },
     {
         "game": "Slope",
         "desc": "Slope Game is a fantastic speed run game where you can drive a ball rolling on tons of slopes and obstacles. See how far you can go in this endless course.",
-        "root": "/g/sl",
+        "root": "/g/sl/",
         "index": "index.html",
         "icon": "gameicon.jpeg"
     },
     {
         "game": "Subway Surfers",
         "desc": "DASH as fast as you can! DODGE the oncoming trains! Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.",
-        "root": "/g/sub",
+        "root": "/g/sub/",
         "index": "index.html",
         "icon": "gameicon.png"
     },
     {
         "game": "Moto x3m",
         "desc": "Grab your motorbike, strap on your helmet and grab some airtime over obstacles to beat the clock on amazing off road circuits.",
-        "root": "/g/m",
+        "root": "/g/m/",
         "index": "index.html",
         "icon": "splash.jpg"
     },
     {
         "game": "Moto x3m - Winter",
         "desc": "Race your motorcycle across ice and snow to reach the finish line in Moto X3M Winter. Get some big air and pull off sweet flips and tricks to save time",
-        "root": "/g/mw",
+        "root": "/g/mw/",
         "index": "index.html",
         "icon": "download.jpeg"
     },
     {
         "game": "Moto x3m - Spooky",
         "desc": "Moto X3M 6: Spooky Land is a bike racing game with a fun Halloween theme. Perform the great front and backflip, try to the finish line as fast as you can.",
-        "root": "/g/ms",
+        "root": "/g/ms/",
         "index": "index.html",
         "icon": "splash.jpeg"
     },
     {
         "game": "Moto x3m - Pool Party",
         "desc": "What could possibly go wrong?! Do some crazy stunts and finish each level FAST to get all three stars. Oh, and don't get wet! Play Moto X3M Pool Party!",
-        "root": "/g/mp",
+        "root": "/g/mp/",
         "index": "index.html",
         "icon": "splash.jpg"
     },
     {
         "game": "Smash Karts",
         "desc": "Smash Karts is a free io Multiplayer Kart Battle Arena game. Drive fast. Fire rockets. Make big explosions.",
-        "root": "/g/sk",
+        "root": "/g/sk/",
         "index": "index.html",
         "icon": "/images/icon-512.png"
     },
     {
         "game": "Cookie Clicker",
         "desc": "Cookie Clicker is an idle game in which players click on a big cookie on the screen to produce cookies. It's all about making cookies.",
-        "root": "/g/cc",
+        "root": "/g/cc/",
         "index": "index.html",
         "icon": "gameicon.png"
     },
     {
         "game": "Drive Mad",
         "desc": "Drive silly cars at high speeds in dangerous terrain. Oh, and you can't steer. Good luck!",
-        "root": "/g/dm",
+        "root": "/g/dm/",
         "index": "index.html",
         "icon":"gameicon.png"
     },
     {
         "game": "0v0",
         "desc": "Play OvO and experience new levels and achievements. Run, smash, and dive to the goal in this updated version.",
-        "root": "/g/o",
+        "root": "/g/o/",
         "index": "index.html",
         "icon": "gameicon.png"
     },
     {
         "game": "Paper.io 2",
         "desc": "Paper.io 2 is a real-time multiplayer .io game where you have to capture as much territory as possible.",
-        "root": "/g/p2",
+        "root": "/g/p2/",
         "index": "index.html",
         "icon": "gameicon.jfif"
     },
     {
         "game": "Retro Bowl",
         "desc": "Retro Bowl is an 8 bit graphics game where you can enjoy the retro sports experience in a fun way. Manage your team and become a champion.",
-        "root": "/g/rb",
+        "root": "/g/rb/",
         "index": "index.html",
         "icon": "gameicon.jpg"
     }
