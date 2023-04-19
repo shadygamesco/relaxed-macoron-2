@@ -49,13 +49,6 @@
         "icon": "splash.jpg"
     },
     {
-        "game": "Smash Karts",
-        "desc": "Smash Karts is a free io Multiplayer Kart Battle Arena game. Drive fast. Fire rockets. Make big explosions.",
-        "root": "/g/sk/",
-        "index": "index.html",
-        "icon": "/images/icon-512.png"
-    },
-    {
         "game": "Cookie Clicker",
         "desc": "Cookie Clicker is an idle game in which players click on a big cookie on the screen to produce cookies. It's all about making cookies.",
         "root": "/g/cc/",
