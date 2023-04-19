@@ -104,9 +104,13 @@ iframe { border: 0; width: 100%; height: 100%; overflow: hidden; }
     background: #666;
 }
 
+/* SMALL DEVICES */
 
-
-
+@media (max-width: 650px) {
+    body{
+        zoom: 40%;
+    }
+}
 
 /* KEEP AT BOTTOM ALWAYS */
 .hidden { display: none; }
