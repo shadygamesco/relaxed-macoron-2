@@ -19,4 +19,4 @@
 
 # Host it your self!!!
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpiksuhl%2Fpiksuhl.github.io)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)]([https://glitch.com/edit/#!/import/github/piksuhl/piksuhl.github.io])
+[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/piksuhl/piksuhl.github.io)
