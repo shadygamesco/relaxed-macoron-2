@@ -20,4 +20,4 @@
 # Host it your self!!!
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpiksuhl%2Fpiksuhl.github.io)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/piksuhl/piksuhl.github.io)
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/piksuhl/piksuhl.github.io)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/0QVzJI?referralCode=FYMcsq)
