@@ -16,3 +16,6 @@
 
 # Discord!!
 [![](https://invidget.switchblade.xyz/7gacGPFbMk?theme=dark)](https://discord.gg/7gacGPFbMk)
+
+# Host it your self!!!
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpiksuhl%2Fpiksuhl.github.io)
